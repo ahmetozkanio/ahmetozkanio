@@ -11,7 +11,7 @@
 - 🎓 &ensp;I'm a computer engineering graduate.
 - 📱 &ensp;I'm currently developing flutter and ios applications.❤️ 
 - ⚡ &ensp;I have been actively developing mobile applications for two years.
-- ₿ &ensp;I'm interested in web3 technologies
+-  ₿ &ensp;I'm interested in web3 technologies
 - 🌱 &ensp;I take care to write my applications with a clean architecture.
 - 📸 &ensp;I enjoy designing and taking photos.
 - 🏕️ &ensp;I like playing billiards and camping.🤟
