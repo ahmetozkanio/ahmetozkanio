@@ -2,10 +2,6 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmetozkanio">Ahmet Özkan!</a></h1>
 <h3 align="center">A Flutter and IOS developer.</h3>
 
-[![Instagram: ahmetozkanio](https://img.shields.io/badge/-CONNECT-white?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/ahmetozkanio/)][instagram]
-[<img align="left" alt=“medium” width="98px" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />][medium]
-[![Twitter](https://img.shields.io/twitter/follow/ahmetozkanio?color=1DA1F2&label=ahmetozkanio&logo=twitter&style=for-the-badge)][twitter]
-[![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/ahmetozkanio/)][linkedin]
 
 - 🔭 &ensp;I’m working on Mobile Applications 
 - 🎓 &ensp;I'm a computer engineering graduate.
@@ -19,14 +15,10 @@
 
 ### Connect With Me
 
-logos/instagram/instagram-icon.svg
-
-
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+[<img align="left" alt=“instagram” width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt=“twitter” width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt=“linkedin” width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
 
 <br />
