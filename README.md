@@ -11,7 +11,7 @@
 - 🎓 &ensp;I'm a computer engineering graduate.
 - 📱 &ensp;I'm currently developing flutter and ios applications.❤️ 
 - ⚡ &ensp;I have been actively developing mobile applications for two years.
--  ₿ &ensp;I'm interested in web3 technologies
+- ₿ &ensp;I'm interested in web3 technologies
 - 🌱 &ensp;I take care to write my applications with a clean architecture.
 - 📸 &ensp;I enjoy designing and taking photos.
 - 🏕️ &ensp;I like playing billiards and camping.🤟
@@ -19,6 +19,11 @@
 
 ### Connect With Me
 
+logos/instagram/instagram-icon.svg
+
+
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
 [<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
@@ -38,9 +43,10 @@
 [<img align="left" alt=“postman” width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />][linkedin]
 [<img align="left" alt=“postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][linkedin]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />][linkedin]
 [<img align="left" alt=“bitcoun” width="26px" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" />][linkedin]
-
+[<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />][linkedin]
+[<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" />][linkedin]
+[<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />][linkedin]
 
 
 
