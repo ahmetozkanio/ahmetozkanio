@@ -40,7 +40,7 @@
 [<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" />][linkedin]
 [<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />][linkedin]
 
-![snake gif](https://github.com/ahmetozkanio/ahmetozkanio/blob/output/github-contribution-grid-snake.gif)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
