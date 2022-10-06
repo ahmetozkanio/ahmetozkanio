@@ -2,6 +2,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmetozkanio">Ahmet Özkan!</a></h1>
 <h3 align="center">A Flutter and IOS developer.</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 🔭 &ensp;I’m working on Mobile Applications 
 - 🎓 &ensp;I'm a computer engineering graduate.
@@ -40,11 +41,6 @@
 [<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" />][linkedin]
 [<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />][linkedin]
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 [website]: https://ahmetozkanio.github.io
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmetozkanio&screen_name=ahmetozkanio
