@@ -42,9 +42,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 [website]: https://ahmetozkanio.github.io
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmetozkanio&screen_name=ahmetozkanio
 [linkedin]: https://linkedin.com/in/ahmetozkanio
