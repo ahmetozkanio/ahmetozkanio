@@ -41,6 +41,10 @@
 [<img align="left" alt=“linux” width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />][linkedin]
 
 ![snake gif](https://github.com/ahmetozkanio/ahmetozkanio/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ahmetozkanio/ahmetozkanio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 [website]: https://ahmetozkanio.github.io
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmetozkanio&screen_name=ahmetozkanio
